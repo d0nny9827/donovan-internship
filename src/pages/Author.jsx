@@ -33,7 +33,7 @@ const Author = () => {
                           Monica Lucas
                           <span className="profile_username">@monicaaaa</span>
                           <span id="wallet" className="profile_wallet">
-                            UDHUHWudhwd78wdt7edb32uidbwyuidhg7wUHIFUHWewiqdj87dy7
+                            UDHUHWudhwd78wdt7edb32uidbwyuidhg7wUHIFUHWewiqdj87dy7ddddd
                           </span>
                           <button id="btn_copy" title="Copy Text">
                             Copy
